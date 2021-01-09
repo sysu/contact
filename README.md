@@ -6,4 +6,4 @@
 
 师兄们师姐们都是水货，大家不必害羞。
 
-加入org之后，大家可以到 [咖啡屋](https://github.com/orgs/sysu/teams/coffeehouse) 说话。（讨论有更新可以在github的通知小铃铛看到）
+加入org之后，大家可以到 [咖啡屋](https://github.com/orgs/sysu/teams/coffeehouse) 说话。（讨论有更新会看到github小铃铛通知）
